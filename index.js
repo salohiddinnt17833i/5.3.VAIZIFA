@@ -42,7 +42,6 @@ class Musiqa {
     return unikalMusiqalar;
   }
   
-  // Misol
   const soni = prompt("Musiqalar soni:");
   const musiqalar = musiqalarniMassivgaKiritish(soni);
   
